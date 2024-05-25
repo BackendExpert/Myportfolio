@@ -14,7 +14,7 @@ const HomePage = () => {
                 <div className="mx-16">
                     <h1 className="md:mt-40 md:text-[70px] font-semibold">Jehan Weerasuriya</h1>
                     <p className="text-4xl text-blue-500 font-semibold">Frontend && Backend Web Developer</p>
-                    <p className="">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
+                    <p className="text-xl my-8">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
                 </div>
             </div>
             <div className="py-10 px-6 h-screen" style={styles}>
