@@ -7,6 +7,11 @@ const HomePage = () => {
         backgroundSize: 'cover',
         backgroundPosition: 'center',
     }
+    const styles1 = {
+        background: `linear-gradient(to right, #081B28, rgba(0,0,0,0.8)), url(${MyImg})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+    }
   return (
     <div>
         <div className="md:grid grid-cols-2">
@@ -17,7 +22,9 @@ const HomePage = () => {
                     <p className="text-xl my-8">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
                 </div>
             </div>
-            <div className="py-10 px-6 h-screen" style={styles}>
+            <div className="md:block hidden py-10 px-6 h-screen" style={styles}>
+            </div>
+            <div className='md:hidden block py-10 px-6 h-screen' style={styles1}>
                 <div className="md:hidden block my-40">
                     <h1 className="text-3xl font-semibold text-white py-1">Jehan Weerasuriya</h1> 
                     <p className="text-md text-blue-500 font-semibold">Frontend && Backend Web Developer</p>                   
