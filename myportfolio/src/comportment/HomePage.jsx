@@ -11,7 +11,7 @@ const HomePage = () => {
     <div>
         <div className="md:grid grid-cols-2">
             <div className="hidden md:block bg-[#081B28] text-white pb-40 over-flow-hidden px-16">
-                <div className="mx-16">
+                <div className="mx-16 my-64">
                     <h1 className="md:mt-40 md:text-[70px] font-semibold">Jehan Weerasuriya</h1>
                     <p className="text-4xl text-blue-500 font-semibold">Frontend && Backend Web Developer</p>
                     <p className="text-xl my-8">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
@@ -21,7 +21,7 @@ const HomePage = () => {
                 <div className="md:hidden block my-40">
                     <h1 className="text-3xl font-semibold text-white py-1">Jehan Weerasuriya</h1> 
                     <p className="text-md text-blue-500 font-semibold">Frontend && Backend Web Developer</p>                   
-                    <p className="text-sm text-white">Founder and CEO at First Sri Lankan CSS Framework</p>
+                    <p className="text-sm text-white my-4">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
                 </div>
             </div>
         </div>
