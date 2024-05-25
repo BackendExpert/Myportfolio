@@ -2,7 +2,13 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <div>
+        <div className="md:grid grid-cols-2 gap-4">
+            <div className="">
+                
+            </div>
+        </div>
+    </div>
   )
 }
 
