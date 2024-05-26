@@ -101,6 +101,17 @@ const Skills = () => {
                                 </a>
                             </td>
                         </tr>
+                        <tr className='border-b border-[#00A0DF]'>
+                            <td>Experiences</td>
+                            <td className='pl-4'>
+                                <a href="https://www.linkedin.com/company/jkcss/posts/?feedView=all" target='_blank'>
+                                    <p className="text-[#00A0DF]">JKCSS</p>
+                                </a>
+                                <a href="https://www.linkedin.com/company/react-jkcss/" target='_blank'>
+                                    <p className="text-[#00A0DF]">React-JKCSS</p>
+                                </a>
+                            </td>
+                        </tr>
                     </table>
                 </div>
             </div>
