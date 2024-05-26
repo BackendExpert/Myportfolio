@@ -111,7 +111,7 @@ const Projects = () => {
                         <div className="md:mx-8 md:my-0 my-2">
                             <p className="md:text-2xl text-xl text-[#00A0DF]">Project JKCSS</p>                            
                             <p className="my-4">2023-May - Present</p>
-                            <p className="">Skills : Nodejs, Mysql, javascript</p>
+                            <p className="">Skills : CSS, SCSS, Framwork Development</p>
                             <p className="flex my-4">
                                 <a href="https://github.com/BackendExpert/mysql-easy" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                     <BsGithub />
