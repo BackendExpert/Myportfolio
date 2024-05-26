@@ -95,7 +95,7 @@ const Experience = () => {
                         <p className="md:text-2xl text-xl text-[#00A0DF]">National Institute of Fundamental Studies (NIFS)</p>
                         <p className="">Hanthana Rd, Kandy, Sri Lanka</p>
                         <p className="font-semibold text-[#00A0DF]">Volunteer Research Assistant, Software Development Intern</p>
-                        <p className="my-4">2024-April - Present</p>
+                        <p className="my-4">2024-Feb - Present</p>
                         <p className="">Skills : Nodejs, Reactjs, Mysql, TailwindCSS</p>
                         <p className="flex my-4">
                             <a href="https://github.com/JKReact-Icons" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
