@@ -17,11 +17,33 @@ const Skills = () => {
                 <div className="md:my-8 my-4">
                     <h1 className="md:text-2xl text-xl text-red-600">Proof of Skill</h1>
                     <table border={0} className='my-4'>
-                        <tr>
+                        <tr className='border-b border-[#00A0DF]'>
                             <td>Gitub Repositories</td>
                             <td className='pl-4'>
-                                <a href="" target='_blank'>
+                                <a href="https://github.com/BackendExpert?tab=repositories&q=&type=&language=javascript&sort" target='_blank'>
                                     <p className="text-[#00A0DF]">View Repositories</p>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr className='border-b border-[#00A0DF]'>
+                            <td>Industrial Experiences</td>
+                            <td className='pl-4'>
+                                <a href="https://www.linkedin.com/in/jehan-weerasuriya-23a3a4223/" target='_blank'>
+                                    <p className="text-[#00A0DF]">Software Development Intern at NIFS</p>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr className='border-b border-[#00A0DF]'>
+                            <td>Projects</td>
+                            <td className='pl-4'>
+                                <a href="https://www.linkedin.com/in/jehan-weerasuriya-23a3a4223/details/projects/" target='_blank'>
+                                    <p className="text-[#00A0DF]">ERP System at NIFS, </p>
+                                </a>
+                                <a href="https://www.linkedin.com/in/jehan-weerasuriya-23a3a4223/details/projects/" target='_blank'>
+                                    <p className="text-[#00A0DF]">Library Management System at NIFS, </p>
+                                </a>
+                                <a href="https://www.linkedin.com/in/jehan-weerasuriya-23a3a4223/details/projects/" target='_blank'>
+                                    <p className="text-[#00A0DF]">Advanced University Management System, </p>
                                 </a>
                             </td>
                         </tr>
