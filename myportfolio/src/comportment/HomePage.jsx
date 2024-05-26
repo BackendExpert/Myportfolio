@@ -7,6 +7,7 @@ import Business from './Business';
 import Education from './Education';
 import Experience from './Experience';
 import Projects from './Projects';
+import ContactMe from './ContactMe';
 
 const HomePage = () => {
     const styles = {
@@ -91,6 +92,10 @@ const HomePage = () => {
         <hr className="border border-[#00A0DF]"/>
         <div >
             <Projects />
+        </div>
+        <hr className="border border-[#00A0DF]"/>
+        <div >
+            <ContactMe />
         </div>
     </div>
   )
