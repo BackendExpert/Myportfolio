@@ -119,7 +119,7 @@ const Projects = () => {
                                 <a href="https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                     <BsGlobe />
                                 </a>
-                                <a href="https://www.npmjs.com/package/jkmysql-easy" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                <a href="https://www.npmjs.com/package/@jehankandy/jkcss" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                     <BsBoxSeam />
                                 </a>
                             </p>
