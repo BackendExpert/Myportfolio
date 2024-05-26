@@ -1,10 +1,10 @@
 import React from 'react'
-import { BsGithub, BsGlobe } from "react-icons/bs";
+import { BsGithub, BsGlobe, BsPerson } from "react-icons/bs";
 
 const AboutMe = () => {
   return (
     <div className='md:px-20 px-8 md:py-24 py-12 bg-[#081B28] text-white'>
-        <h1 className="md:text-6xl text-2xl text-center text-[#00A0DF] font-semibold">About Me</h1>
+        <h1 className="md:text-6xl text-2xl text-[#00A0DF] font-semibold flex "><BsPerson /><span className=' italic pl-2 font-semibold'>About Me</span></h1>
         <div className="md:grid grid-cols-2 gap-4 md:my-8 my-2">
             <div className="my-12">
                 <div className="">
