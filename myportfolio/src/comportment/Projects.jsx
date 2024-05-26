@@ -113,8 +113,11 @@ const Projects = () => {
                             <p className="my-4">2023-May - Present</p>
                             <p className="">Skills : CSS, SCSS, Framwork Development</p>
                             <p className="flex my-4">
-                                <a href="https://github.com/BackendExpert/mysql-easy" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                <a href="https://github.com/JKCSS-CSS-Framework" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                     <BsGithub />
+                                </a>
+                                <a href="https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                    <BsGlobe />
                                 </a>
                                 <a href="https://www.npmjs.com/package/jkmysql-easy" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                     <BsBoxSeam />
@@ -123,7 +126,7 @@ const Projects = () => {
                         </div>
                     </div>                    
                 </div>
-                <p className="">Advanced University Management System </p>
+                <p className="">First Utility-First Dynamic CSS Framework in Sri Lanka </p>
             </div>
             <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
         </div>
