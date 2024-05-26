@@ -23,14 +23,13 @@ const HomePage = () => {
                     <p className="text-xl my-8">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
                     <div className="my-4 flex">
                         <a href="">
-                            <button className='flex text-xl bg-blue-500 text-black py-4 px-8 rounded-xl '>
+                            <button className='flex text-xl bg-blue-500 text-black py-4 px-8 rounded-md '>
                                 <BsGithub />
                                 <p className="pl-2 font-semibold">On Gitub</p>
                             </button>
                         </a>
                         <a href="">
-                            <button className='mx-2 flex text-xl text-blue-500 border-2 border-blue-500 py-4 px-8 rounded-xl '>
-                                <BsGithub />
+                            <button className='mx-2 flex text-xl text-blue-500 border-2 border-blue-500 py-4 px-8 rounded-md duration-500 hover:bg-blue-500 hover:text-black'>
                                 <p className="pl-2 font-semibold">My Works</p>
                             </button>
                         </a>
@@ -44,6 +43,19 @@ const HomePage = () => {
                     <h1 className="text-3xl font-semibold text-white py-1">Jehan Weerasuriya</h1> 
                     <p className="text-md text-blue-500 font-semibold">Frontend && Backend Web Developer</p>                   
                     <p className="text-sm text-white my-4">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
+                    <div className="my-4 flex">
+                        <a href="">
+                            <button className='flex text-xl bg-blue-500 text-black py-4 px-8 rounded-md '>
+                                <BsGithub />
+                                <p className="pl-2 font-semibold">On Gitub</p>
+                            </button>
+                        </a>
+                        <a href="">
+                            <button className='mx-2 flex text-xl text-blue-500 border-2 border-blue-500 py-4 px-8 rounded-md duration-500 hover:bg-blue-500 hover:text-black'>
+                                <p className="pl-2 font-semibold">My Works</p>
+                            </button>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
