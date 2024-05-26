@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsBuilding, BsGithub, BsGlobe, BsPerson, BsPersonGear } from "react-icons/bs";
+import { BsBoxSeam, BsBuilding, BsGithub, BsGlobe, BsLinkedin, BsPerson, BsPersonGear } from "react-icons/bs";
 
 const Experience = () => {
   return (
@@ -14,6 +14,20 @@ const Experience = () => {
                         <p className="">First Utility-First Dynamic CSS Framework in Sri Lanka</p>
                         <p className="my-4">2023-May - Present</p>
                         <p className="">Skills : CSS, SCSS, Framework Development</p>
+                        <p className="flex my-4">
+                            <a href="https://github.com/JKCSS-CSS-Framework" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                <BsGithub />
+                            </a>
+                            <a href="https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                <BsGlobe />
+                            </a>
+                            <a href="https://www.linkedin.com/company/jkcss/posts/?feedView=all" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                <BsLinkedin />
+                            </a>
+                            <a href="https://www.npmjs.com/package/@jehankandy/jkcss" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                <BsBoxSeam />
+                            </a>
+                        </p>
                     </div>
                 </div>
             </div>
