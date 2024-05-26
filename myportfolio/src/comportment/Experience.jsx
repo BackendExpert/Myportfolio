@@ -93,8 +93,8 @@ const Experience = () => {
                     <img className='rounded h-40' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrWK2Xy0aPb4uwGsCnwn-YJuTKpLX1ptdYwACjaCvSQ&s" alt="" />
                     <div className="md:mx-8 md:my-0 my-2">
                         <p className="md:text-2xl text-xl text-[#00A0DF]">National Institute of Fundamental Studies (NIFS)</p>
-                        <p className="">First React Support Icons</p>
-                        <p className="font-semibold text-[#00A0DF]">Founder and CEO</p>
+                        <p className="">Hanthana Rd, Kandy, Sri Lanka</p>
+                        <p className="font-semibold text-[#00A0DF]">Volunteer Research Assistant, Software Development Intern</p>
                         <p className="my-4">2024-April - Present</p>
                         <p className="">Skills : CSS, SCSS, Framework Development, NPM</p>
                         <p className="flex my-4">
