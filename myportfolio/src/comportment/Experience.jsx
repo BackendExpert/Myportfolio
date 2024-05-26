@@ -36,10 +36,10 @@ const Experience = () => {
 
             <div className="my-8 md:my-0">
                 <div className="md:flex">
-                    <img className='rounded h-40' src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" />
+                    <img className='rounded h-40' src="https://avatars.githubusercontent.com/u/167443241?s=200&v=4" alt="" />
                     <div className="md:mx-8 md:my-0 my-2">
-                        <p className="md:text-2xl text-xl text-[#00A0DF]">The JKCSS - CSS Framework</p>
-                        <p className="">First Utility-First Dynamic CSS Framework in Sri Lanka</p>
+                        <p className="md:text-2xl text-xl text-[#00A0DF]">The React-JKCSS - CSS Framework</p>
+                        <p className="">First React Support CSS Framework in Sri Lanka</p>
                         <p className="font-semibold text-[#00A0DF]">Founder and CEO</p>
                         <p className="my-4">2023-May - Present</p>
                         <p className="">Skills : CSS, SCSS, Framework Development</p>
