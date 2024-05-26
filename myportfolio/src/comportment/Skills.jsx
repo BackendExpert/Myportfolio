@@ -477,6 +477,17 @@ const Skills = () => {
                 </div>
             </div>
 
+
+            <div className="bg-gray-800 py-4 px-8 rounded  md:my-0 my-4">
+                <div className="flex">
+                    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mongodb_plain_wordmark_logo_icon_146423.png" alt="" className='md:h-28 h-16 rounded'/>
+                    <div className="mx-5 md:mx-10 md:text-2xl text-xl">
+                        <p className="">MongoDB</p>
+                        <p className="py-4">Level: <span className='text-yellow-600'>Basic</span> </p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
   )
