@@ -41,16 +41,13 @@ const Experience = () => {
                         <p className="md:text-2xl text-xl text-[#00A0DF]">The React-JKCSS - CSS Framework</p>
                         <p className="">First React Support CSS Framework in Sri Lanka</p>
                         <p className="font-semibold text-[#00A0DF]">Founder and CEO</p>
-                        <p className="my-4">2023-May - Present</p>
+                        <p className="my-4">2024-April - Present</p>
                         <p className="">Skills : CSS, SCSS, Framework Development</p>
                         <p className="flex my-4">
                             <a href="https://github.com/JKCSS-CSS-Framework" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                 <BsGithub />
                             </a>
-                            <a href="https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
-                                <BsGlobe />
-                            </a>
-                            <a href="https://www.linkedin.com/company/jkcss/posts/?feedView=all" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                            <a href="https://www.linkedin.com/company/react-jkcss/" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                 <BsLinkedin />
                             </a>
                             <a href="https://www.npmjs.com/package/@jehankandy/jkcss" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
