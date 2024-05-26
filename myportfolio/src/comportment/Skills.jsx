@@ -457,7 +457,7 @@ const Skills = () => {
                         <tr className='border-b border-[#00A0DF]'>
                             <td>Gitub Repositories</td>
                             <td className='pl-4'>
-                                <a href="https://github.com/BackendExpert?tab=repositories&q=&type=&language=php" target='_blank'>
+                                <a href="https://github.com/BackendExpert?tab=repositories&q=&type=&language=vue" target='_blank'>
                                     <p className="text-[#00A0DF]">View Repositories</p>
                                 </a>
                             </td>
