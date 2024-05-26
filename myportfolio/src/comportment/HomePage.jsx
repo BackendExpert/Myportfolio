@@ -97,6 +97,9 @@ const HomePage = () => {
         <div >
             <ContactMe />
         </div>
+        <footer className='text-center text-white bg-[#081B28]'>
+            <p className="">Developed and Designed By <a href="https://github.com/BackendExpert" target='_blank'><span className='text-[#00A0DF]'>JehanKandy</span></a></p>
+        </footer>
     </div>
   )
 }
