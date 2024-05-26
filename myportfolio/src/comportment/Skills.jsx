@@ -50,6 +50,33 @@ const Skills = () => {
                     </table>
                 </div>
             </div>
+
+
+
+
+
+            <div className="bg-gray-800 py-4 px-8 rounded">
+                <div className="flex">
+                    <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
+                    <div className="mx-5 md:mx-10 md:text-2xl text-xl">
+                        <p className="">Javascript</p>
+                        <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
+                    </div>
+                </div>
+                <div className="md:my-8 my-4">
+                    <h1 className="md:text-2xl text-xl text-red-600">Proof of Skill</h1>
+                    <table border={0} className='my-4'>
+                        <tr className='border-b border-[#00A0DF]'>
+                            <td>Gitub Repositories</td>
+                            <td className='pl-4'>
+                                <a href="https://github.com/BackendExpert?tab=repositories&q=&type=&language=html" target='_blank'>
+                                    <p className="text-[#00A0DF]">View Repositories</p>
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
         </div>
     </div>
   )
