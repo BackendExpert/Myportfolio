@@ -67,7 +67,7 @@ const Projects = () => {
                             <p className="my-4">2024-May - Present</p>
                             <p className="">Skills : Nodejs, Reactjs, Mysql</p>
                             <p className="flex my-4">
-                                <a href="https://github.com/TeamProjectsReact/Dating-App" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                <a href="https://github.com/BackendExpert/mysql-easy" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                     <BsGithub />
                                 </a>
                                 <a href="https://www.npmjs.com/package/jkmysql-easy" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
