@@ -7,25 +7,7 @@ const Projects = () => {
         <h1 className="md:text-2xl text-2xl text-[#00A0DF] font-semibold flex "><BsClipboard /><span className=' italic pl-2 font-semibold'>Projects</span></h1>
         <div className="my-12 md:grid grid-cols-3 gap-4 md:mx-16">
 
-            <div className="md:my-0 my-4">
-                <div className="md:flex">
-                    <BsBarChartLineFill className='h-40 w-auto'/>
-                    <div className="md:mx-8 mx-4">
-                        <div className="md:mx-8 md:my-0 my-2">
-                            <p className="md:text-2xl text-xl text-[#00A0DF]">Dating App</p>
-                            <p className="">Advanced Dating Site</p>
-                            <p className="my-4">2024-April - Present</p>
-                            <p className="">Skills : Nodejs, Reactjs, Mysql</p>
-                            <p className="flex my-4">
-                                <a href="https://github.com/TeamProjectsReact/Dating-App" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
-                                    <BsGithub />
-                                </a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
+
 
             <div className="md:my-0 my-4">
                 <div className="md:flex">
@@ -70,6 +52,26 @@ const Projects = () => {
                     </div>                    
                 </div>
                 <p className="">Advanced University Management System </p>
+            </div>
+            <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
+
+            <div className="md:my-0 my-4">
+                <div className="md:flex">
+                    <BsBarChartLineFill className='h-40 w-auto'/>
+                    <div className="md:mx-8 mx-4">
+                        <div className="md:mx-8 md:my-0 my-2">
+                            <p className="md:text-2xl text-xl text-[#00A0DF]">Dating App</p>
+                            <p className="">Advanced Dating Site</p>
+                            <p className="my-4">2024-April - Present</p>
+                            <p className="">Skills : Nodejs, Reactjs, Mysql</p>
+                            <p className="flex my-4">
+                                <a href="https://github.com/TeamProjectsReact/Dating-App" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                    <BsGithub />
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
             <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
 
