@@ -58,6 +58,29 @@ const Projects = () => {
             </div>
             <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
 
+            <div className="md:my-0 my-4">
+                <div className="md:flex">
+                    <BsBarChartLineFill className='h-40 w-auto'/>
+                    <div className="md:mx-8 mx-4">
+                        <div className="md:mx-8 md:my-0 my-2">
+                            <p className="md:text-2xl text-xl text-[#00A0DF]">JKMysql Easy</p>                            
+                            <p className="my-4">2024-May - Present</p>
+                            <p className="">Skills : Nodejs, Reactjs, Mysql</p>
+                            <p className="flex my-4">
+                                <a href="https://github.com/TeamProjectsReact/Dating-App" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                    <BsGithub />
+                                </a>
+                                <a href="https://www.npmjs.com/package/jkmysql-easy" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                    <BsBoxSeam />
+                                </a>
+                            </p>
+                        </div>
+                    </div>                    
+                </div>
+                <p className="">Nodejs + Mysql Npm Package for nodejs Development. Mysql Quert-less Backend Development</p>
+            </div>
+            <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
+
         </div>
     </div>
   )
