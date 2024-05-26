@@ -2,6 +2,7 @@ import React from 'react'
 import MyImg from '../assets/MyImg.jpg'
 import { BsGithub } from "react-icons/bs";
 import AboutMe from './AboutMe';
+import Skills from './Skills';
 
 const HomePage = () => {
     const styles = {
@@ -69,7 +70,7 @@ const HomePage = () => {
         </div>
         <hr className="border border-[#00A0DF]"/>
         <div >
-            <AboutMe />
+            <Skills />
         </div>
     </div>
   )
