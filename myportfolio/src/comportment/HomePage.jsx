@@ -6,6 +6,7 @@ import Skills from './Skills';
 import Business from './Business';
 import Education from './Education';
 import Experience from './Experience';
+import Projects from './Projects';
 
 const HomePage = () => {
     const styles = {
@@ -86,6 +87,10 @@ const HomePage = () => {
         <hr className="border border-[#00A0DF]"/>
         <div >
             <Skills />
+        </div>
+        <hr className="border border-[#00A0DF]"/>
+        <div >
+            <Projects />
         </div>
     </div>
   )
