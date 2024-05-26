@@ -13,9 +13,9 @@ const AboutMe = () => {
                             <img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4" alt="" className='rounded md:h-80 h-40'/>
                             <p className="py-4 text-xl">First Utility-First Dynamic CSS Framework in Sri Lanka</p>
                             <p className="text-[#00A0DF] font-semibold text-3xl">JKCSS</p>
-                            <a href="" target='_blank'>
-                                <p className="text-2xl font-semibold my-2"><BsGlobe /></p>
-                            </a>
+                                 <a href="https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/" className='px-4 my-4 text-xl' target='_blank'>
+                                    <BsGlobe />
+                                </a>
                         </center>
                     </div>
                 </div>
