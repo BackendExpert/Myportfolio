@@ -321,7 +321,7 @@ const Skills = () => {
 
             <div className="bg-gray-800 py-4 px-8 rounded  md:my-0 my-4">
                 <div className="flex">
-                    <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
+                    <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
                         <p className="">Tailwind CSS</p>
                         <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
