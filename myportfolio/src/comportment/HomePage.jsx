@@ -45,7 +45,7 @@ const HomePage = () => {
                 <div className="md:hidden block my-20">
                     <img src={MyImg} alt="" className='rounded-full h-40 w-auto mx-16 my-8'/>
                     <h1 className="text-3xl font-semibold text-white py-1">Jehan Weerasuriya</h1> 
-                    <p className="text-md text-[#00A0DF] font-semibold">Frontend && Backend Web Developer</p>                   
+                    <p className="text-md text-[#00A0DF] font-semibold">Frontend && Backend Developer</p>                   
                     <p className="text-sm text-white my-4">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
                     <div className="my-4 flex">
                         <a href="md:block block">
