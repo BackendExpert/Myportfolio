@@ -13,7 +13,7 @@ const Projects = () => {
                     <div className="md:mx-8 mx-4">
                         <div className="md:mx-8 md:my-0 my-2">
                             <p className="md:text-2xl text-xl text-[#00A0DF]">Dating App</p>
-                            <p className="">Advanced Dataing Site</p>
+                            <p className="">Advanced Dating Site</p>
                             <p className="my-4">2024-April - Present</p>
                             <p className="">Skills : Nodejs, Reactjs, Mysql</p>
                             <p className="flex my-4">
