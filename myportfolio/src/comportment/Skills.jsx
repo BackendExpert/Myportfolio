@@ -439,10 +439,44 @@ const Skills = () => {
                                 </a>
                             </td>
                         </tr>
-
                     </table>
                 </div>
             </div>
+
+            <div className="bg-gray-800 py-4 px-8 rounded  md:my-0 my-4">
+                <div className="flex">
+                    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="" className='md:h-28 h-16 rounded'/>
+                    <div className="mx-5 md:mx-10 md:text-2xl text-xl">
+                        <p className="">Vue.js</p>
+                        <p className="py-4">Level: <span className='text-yellow-600'>Basic</span> </p>
+                    </div>
+                </div>
+                <div className="md:my-8 my-4">
+                    <h1 className="md:text-2xl text-xl text-red-600">Proof of Skill</h1>
+                    <table border={0} className='my-4'>
+                        <tr className='border-b border-[#00A0DF]'>
+                            <td>Gitub Repositories</td>
+                            <td className='pl-4'>
+                                <a href="https://github.com/BackendExpert?tab=repositories&q=&type=&language=php" target='_blank'>
+                                    <p className="text-[#00A0DF]">View Repositories</p>
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="bg-gray-800 py-4 px-8 rounded  md:my-0 my-4">
+                <div className="flex">
+                    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="" className='md:h-28 h-16 rounded'/>
+                    <div className="mx-5 md:mx-10 md:text-2xl text-xl">
+                        <p className="">Laravel</p>
+                        <p className="py-4">Level: <span className='text-yellow-600'>Basic</span> </p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
   )
