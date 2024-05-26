@@ -4,6 +4,7 @@ import { BsGithub } from "react-icons/bs";
 import AboutMe from './AboutMe';
 import Skills from './Skills';
 import Business from './Business';
+import Education from './Education';
 
 const HomePage = () => {
     const styles = {
@@ -68,6 +69,10 @@ const HomePage = () => {
         <hr className="border border-[#00A0DF]"/>
         <div >
             <AboutMe />
+        </div>
+        <hr className="border border-[#00A0DF]"/>
+        <div >
+            <Education />
         </div>
         <hr className="border border-[#00A0DF]"/>
         <div >
