@@ -363,14 +363,83 @@ const Skills = () => {
                                 </a>
                             </td>                            
                         </tr>
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="bg-gray-800 py-4 px-8 rounded  md:my-0 my-4">
+                <div className="flex">
+                    <img src="https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png" alt="" className='md:h-28 h-16 rounded'/>
+                    <div className="mx-5 md:mx-10 md:text-2xl text-xl">
+                        <p className="">NPM Development</p>
+                        <p className="py-4">Level: <span className='text-yellow-600'>Intermediate</span> </p>
+                    </div>
+                </div>
+                <div className="md:my-8 my-4">
+                    <h1 className="md:text-2xl text-xl text-red-600">Proof of Skill</h1>
+                    <table border={0} className='my-4'>
+                        <tr className='border-b border-[#00A0DF]'>
+                            <td>Gitub Repositories</td>
+                            <td className='pl-4'>
+                                <a href="https://github.com/BackendExpert?tab=repositories&q=&type=&language=javascript&sort" target='_blank'>
+                                    <p className="text-[#00A0DF]">View Repositories</p>
+                                </a>
+                            </td>
+                        </tr>
                         <tr className='border-b border-[#00A0DF]'>
                             <td>NPM Packages</td>
                             <td className='pl-4'>
+                                <a href="https://www.npmjs.com/package/@jehankandy/jkcss" target='_blank'>
+                                    <p className="text-[#00A0DF]">JKCSS</p>
+                                </a>
+                                <a href="https://www.npmjs.com/package/@jehankandy/react-jkcss" target='_blank'>
+                                    <p className="text-[#00A0DF]">React-JKCSS</p>
+                                </a>
+                                <a href="https://www.npmjs.com/package/@jehankandy/jkreact-icons" target='_blank'>
+                                    <p className="text-[#00A0DF]">JKreact Icons</p>
+                                </a>
                                 <a href="https://www.npmjs.com/package/jkmysql-easy" target='_blank'>
                                     <p className="text-[#00A0DF]">JKmysql Easy</p>
                                 </a>
                             </td>
                         </tr>
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="bg-gray-800 py-4 px-8 rounded  md:my-0 my-4">
+                <div className="flex">
+                    <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
+                    <div className="mx-5 md:mx-10 md:text-2xl text-xl">
+                        <p className="">Bootstrap CSS</p>
+                        <p className="py-4">Level: <span className='text-yellow-600'>Intermediate</span> </p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div className="bg-gray-800 py-4 px-8 rounded  md:my-0 my-4">
+                <div className="flex">
+                    <img src="https://www.svgrepo.com/show/303656/php-logo.svg" alt="" className='md:h-28 h-16 rounded'/>
+                    <div className="mx-5 md:mx-10 md:text-2xl text-xl">
+                        <p className="">PHP</p>
+                        <p className="py-4">Level: <span className='text-yellow-600'>Intermediate</span> </p>
+                    </div>
+                </div>
+                <div className="md:my-8 my-4">
+                    <h1 className="md:text-2xl text-xl text-red-600">Proof of Skill</h1>
+                    <table border={0} className='my-4'>
+                        <tr className='border-b border-[#00A0DF]'>
+                            <td>Gitub Repositories</td>
+                            <td className='pl-4'>
+                                <a href="https://github.com/BackendExpert?tab=repositories&q=&type=&language=php" target='_blank'>
+                                    <p className="text-[#00A0DF]">View Repositories</p>
+                                </a>
+                            </td>
+                        </tr>
+
                     </table>
                 </div>
             </div>
