@@ -112,6 +112,17 @@ const Skills = () => {
                                 </a>
                             </td>
                         </tr>
+                        <tr className='border-b border-[#00A0DF]'>
+                            <td>NPM Packages</td>
+                            <td className='pl-4'>
+                                <a href="https://www.npmjs.com/package/@jehankandy/jkcss" target='_blank'>
+                                    <p className="text-[#00A0DF]">JKCSS</p>
+                                </a>
+                                <a href="https://www.npmjs.com/package/@jehankandy/react-jkcss" target='_blank'>
+                                    <p className="text-[#00A0DF]">React-JKCSS</p>
+                                </a>
+                            </td>
+                        </tr>
                     </table>
                 </div>
             </div>
