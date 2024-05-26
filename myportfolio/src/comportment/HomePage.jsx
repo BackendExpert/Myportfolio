@@ -1,5 +1,6 @@
 import React from 'react'
 import MyImg from '../assets/MyImg.jpg'
+import { BsGithub } from "react-icons/bs";
 
 const HomePage = () => {
     const styles = {
@@ -20,6 +21,20 @@ const HomePage = () => {
                     <h1 className="md:mt-40 md:text-[70px] font-semibold">Jehan Weerasuriya</h1>
                     <p className="text-4xl text-blue-500 font-semibold">Frontend && Backend Web Developer</p>
                     <p className="text-xl my-8">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
+                    <div className="my-4 flex">
+                        <a href="">
+                            <button className='flex text-xl bg-blue-500 text-black py-4 px-8 rounded-xl '>
+                                <BsGithub />
+                                <p className="pl-2 font-semibold">On Gitub</p>
+                            </button>
+                        </a>
+                        <a href="">
+                            <button className='mx-2 flex text-xl text-blue-500 border-2 border-blue-500 py-4 px-8 rounded-xl '>
+                                <BsGithub />
+                                <p className="pl-2 font-semibold">My Works</p>
+                            </button>
+                        </a>
+                    </div>
                 </div>
             </div>
             <div className="md:block hidden py-10 px-6 h-screen" style={styles}>
