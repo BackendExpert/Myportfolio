@@ -67,6 +67,10 @@ const HomePage = () => {
         <div >
             <AboutMe />
         </div>
+        <hr className="border border-[#00A0DF]"/>
+        <div >
+            <AboutMe />
+        </div>
     </div>
   )
 }
