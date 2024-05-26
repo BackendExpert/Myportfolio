@@ -121,7 +121,31 @@ const Projects = () => {
                         </div>
                     </div>                    
                 </div>
-                <p className="">First Utility-First Dynamic CSS Framework in Sri Lanka </p>
+                <p className="">React Support CSS Framework</p>
+            </div>
+            <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
+
+
+            <div className="md:my-0 my-4">
+                <div className="md:flex">
+                    <BsBarChartLineFill className='h-40 w-auto'/>
+                    <div className="md:mx-8 mx-4">
+                        <div className="md:mx-8 md:my-0 my-2">
+                            <p className="md:text-2xl text-xl text-[#00A0DF]">Project JKReact Icon</p>                            
+                            <p className="my-4">2024-April - Present</p>
+                            <p className="">Skills : CSS, SCSS, Framwork Development</p>
+                            <p className="flex my-4">
+                                <a href="https://github.com/JKReact-Icons" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                    <BsGithub />
+                                </a>
+                                <a href="https://www.npmjs.com/package/@jehankandy/react-jkcss" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                    <BsBoxSeam />
+                                </a>
+                            </p>
+                        </div>
+                    </div>                    
+                </div>
+                <p className="">React Support Icons</p>
             </div>
             <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
 
