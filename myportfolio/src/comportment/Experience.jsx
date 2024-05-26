@@ -36,6 +36,21 @@ const Experience = () => {
 
             <div className="my-8 md:my-0">
                 <div className="md:flex">
+                    <img className='rounded h-40' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrWK2Xy0aPb4uwGsCnwn-YJuTKpLX1ptdYwACjaCvSQ&s" alt="" />
+                    <div className="md:mx-8 md:my-0 my-2">
+                        <p className="md:text-2xl text-xl text-[#00A0DF]">National Institute of Fundamental Studies (NIFS)</p>
+                        <p className="">Hanthana Rd, Kandy, Sri Lanka</p>
+                        <p className="font-semibold text-[#00A0DF]">Volunteer Research Assistant, Software Development Intern</p>
+                        <p className="my-4">2024-Feb - Present</p>
+                        <p className="">Skills : Nodejs, Reactjs, Mysql, TailwindCSS</p>
+                    </div>
+                </div>
+            </div>
+
+            <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
+
+            <div className="my-8 md:my-0">
+                <div className="md:flex">
                     <img className='rounded h-40' src="https://avatars.githubusercontent.com/u/167443241?s=200&v=4" alt="" />
                     <div className="md:mx-8 md:my-0 my-2">
                         <p className="md:text-2xl text-xl text-[#00A0DF]">The React-JKCSS - CSS Framework</p>
@@ -88,29 +103,7 @@ const Experience = () => {
 
 
 
-            <div className="my-8 md:my-0">
-                <div className="md:flex">
-                    <img className='rounded h-40' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrWK2Xy0aPb4uwGsCnwn-YJuTKpLX1ptdYwACjaCvSQ&s" alt="" />
-                    <div className="md:mx-8 md:my-0 my-2">
-                        <p className="md:text-2xl text-xl text-[#00A0DF]">National Institute of Fundamental Studies (NIFS)</p>
-                        <p className="">Hanthana Rd, Kandy, Sri Lanka</p>
-                        <p className="font-semibold text-[#00A0DF]">Volunteer Research Assistant, Software Development Intern</p>
-                        <p className="my-4">2024-Feb - Present</p>
-                        <p className="">Skills : Nodejs, Reactjs, Mysql, TailwindCSS</p>
-                        <p className="flex my-4">
-                            <a href="https://github.com/JKReact-Icons" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
-                                <BsGithub />
-                            </a>
-                            <a href="https://www.linkedin.com/company/jkreact-icons/" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
-                                <BsLinkedin />
-                            </a>
-                            <a href="https://www.npmjs.com/package/@jehankandy/jkreact-icons" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
-                                <BsBoxSeam />
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
+
 
 
 
