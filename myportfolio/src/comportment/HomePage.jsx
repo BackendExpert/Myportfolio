@@ -21,18 +21,18 @@ const HomePage = () => {
             <div className="hidden md:block bg-[#081B28] text-white pb-40 over-flow-hidden px-16">
                 <div className="mx-16 my-64">
                     <h1 className="md:mt-40 md:text-5xl font-semibold">Jehan Weerasuriya</h1>
-                    <p className="my-4 text-4xl text-blue-500 font-semibold">Frontend && Backend Developer</p>
+                    <p className="my-4 text-4xl text-[#00A0DF] font-semibold">Frontend && Backend Developer</p>
                     <p className="text-xl text-white font-semibold my-4">Founder and CEO at First CSS Framework in Sri Lanka (JKCSS)</p>                    
                     <p className="text-xl my-8">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
                     <div className="my-4 flex">
                         <a href="md:block block">
-                            <button className='border-2 border-blue-500 flex text-xl bg-blue-500 text-black py-4 px-8 rounded-md '>
+                            <button className='border-2 border-[#00A0DF] flex text-xl bg-[#00A0DF] text-black py-4 px-8 rounded-md '>
                                 <BsGithub />
                                 <p className="pl-2 font-semibold">On Gitub</p>
                             </button>
                         </a>
                         <a href="">
-                            <button className='mx-2 flex text-xl text-blue-500 border-2 border-blue-500 py-4 px-8 rounded-md duration-500 hover:bg-blue-500 hover:text-black'>
+                            <button className='mx-2 flex text-xl text-[#00A0DF] border-2 border-[#00A0DF] py-4 px-8 rounded-md duration-500 hover:bg-[#00A0DF] hover:text-black'>
                                 <p className="pl-2 font-semibold">My Works</p>
                             </button>
                         </a>
@@ -45,17 +45,17 @@ const HomePage = () => {
                 <div className="md:hidden block my-20">
                     <img src={MyImg} alt="" className='rounded-full h-40 w-auto mx-16 my-8'/>
                     <h1 className="text-3xl font-semibold text-white py-1">Jehan Weerasuriya</h1> 
-                    <p className="text-md text-blue-500 font-semibold">Frontend && Backend Web Developer</p>                   
+                    <p className="text-md text-[#00A0DF] font-semibold">Frontend && Backend Web Developer</p>                   
                     <p className="text-sm text-white my-4">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
                     <div className="my-4 flex">
                         <a href="md:block block">
-                            <button className='border-2 border-blue-500 flex bg-blue-500 text-black py-4 px-4 rounded-md '>
+                            <button className='border-2 border-[#00A0DF] flex bg-[#00A0DF] text-black py-4 px-4 rounded-md '>
                                 <BsGithub />
                                 <p className="pl-2 font-semibold">On Gitub</p>
                             </button>
                         </a>
                         <a href="">
-                            <button className='mx-2 flex text-blue-500 border-2 border-blue-500 py-4 px-4 rounded-md duration-500 hover:bg-blue-500 hover:text-black'>
+                            <button className='mx-2 flex text-[#00A0DF] border-2 border-[#00A0DF] py-4 px-4 rounded-md duration-500 hover:bg-[#00A0DF] hover:text-black'>
                                 <p className="pl-2 font-semibold">My Works</p>
                             </button>
                         </a>
@@ -63,8 +63,9 @@ const HomePage = () => {
                 </div>
             </div>
         </div>
-        <div className="py-2">
-            About ME
+        <hr className="border border-[#00A0DF]"/>
+        <div >
+            <AboutMe />
         </div>
     </div>
   )
