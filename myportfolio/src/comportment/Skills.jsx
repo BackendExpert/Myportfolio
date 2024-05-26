@@ -13,7 +13,7 @@ const Skills = () => {
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
                         <p className="">Javascript</p>
-                        <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
+                        <p className="py-4">Level: <span className='text-green-600'>Advanced</span> </p>
                     </div>
                 </div>
                 <div className="md:my-8 my-4">
@@ -62,7 +62,7 @@ const Skills = () => {
                     <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
                         <p className="">HTML</p>
-                        <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
+                        <p className="py-4">Level: <span className='text-green-600'>Advanced</span> </p>
                     </div>
                 </div>
                 <div className="md:my-8 my-4">
@@ -86,7 +86,7 @@ const Skills = () => {
                     <img src="https://e7.pngegg.com/pngimages/603/759/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
                         <p className="">CSS</p>
-                        <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
+                        <p className="py-4">Level: <span className='text-green-600'>Advanced</span> </p>
                     </div>
                 </div>
                 <div className="md:my-8 my-4">
@@ -137,7 +137,7 @@ const Skills = () => {
                     <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
                         <p className="">React.js</p>
-                        <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
+                        <p className="py-4">Level: <span className='text-green-600'>Advanced</span> </p>
                     </div>
                 </div>
                 <div className="md:my-8 my-4">
@@ -200,7 +200,7 @@ const Skills = () => {
                     <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
                         <p className="">Node.js</p>
-                        <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
+                        <p className="py-4">Level: <span className='text-green-600'>Advanced</span> </p>
                     </div>
                 </div>
                 <div className="md:my-8 my-4">
@@ -266,7 +266,7 @@ const Skills = () => {
                     <img src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
                         <p className="">MySQL</p>
-                        <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
+                        <p className="py-4">Level: <span className='text-green-600'>Advanced</span> </p>
                     </div>
                 </div>
                 <div className="md:my-8 my-4">
@@ -324,7 +324,7 @@ const Skills = () => {
                     <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
                         <p className="">Tailwind CSS</p>
-                        <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
+                        <p className="py-4">Level: <span className='text-green-600'>Advanced</span> </p>
                     </div>
                 </div>
                 <div className="md:my-8 my-4">
