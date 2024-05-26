@@ -44,13 +44,13 @@ const Experience = () => {
                         <p className="my-4">2024-April - Present</p>
                         <p className="">Skills : CSS, SCSS, Framework Development</p>
                         <p className="flex my-4">
-                            <a href="https://github.com/JKCSS-CSS-Framework" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                            <a href="https://github.com/React-JKCSS" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                 <BsGithub />
                             </a>
                             <a href="https://www.linkedin.com/company/react-jkcss/" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                 <BsLinkedin />
                             </a>
-                            <a href="https://www.npmjs.com/package/@jehankandy/jkcss" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                            <a href="https://www.npmjs.com/package/@jehankandy/react-jkcss" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                 <BsBoxSeam />
                             </a>
                         </p>
