@@ -19,7 +19,7 @@ const HomePage = () => {
             <div className="hidden md:block bg-[#081B28] text-white pb-40 over-flow-hidden px-16">
                 <div className="mx-16 my-64">
                     <h1 className="md:mt-40 md:text-[70px] font-semibold">Jehan Weerasuriya</h1>
-                    <p className="text-4xl text-blue-500 font-semibold">Frontend && Backend Web Developer</p>
+                    <p className="text-4xl text-blue-500 font-semibold">Frontend && Backend Developer</p>
                     <p className="text-xl text-white font-semibold my-4">Founder and CEO at First CSS Framework in Sri Lanka (JKCSS)</p>                    
                     <p className="text-xl my-8">I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.</p>
                     <div className="my-4 flex">
