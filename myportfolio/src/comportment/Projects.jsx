@@ -138,7 +138,7 @@ const Projects = () => {
                                 <a href="https://github.com/JKReact-Icons" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                     <BsGithub />
                                 </a>
-                                <a href="https://www.npmjs.com/package/@jehankandy/react-jkcss" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
+                                <a href="https://www.npmjs.com/package/@jehankandy/jkreact-icons" className='px-2 text-xl text-[#00A0DF]' target='_blank'>
                                     <BsBoxSeam />
                                 </a>
                             </p>
