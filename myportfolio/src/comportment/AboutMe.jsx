@@ -4,15 +4,20 @@ const AboutMe = () => {
   return (
     <div className='md:px-20 px-8 md:py-24 py-12 bg-[#081B28] text-white'>
         <h1 className="md:text-6xl text-2xl text-center text-[#00A0DF] font-semibold">About Me</h1>
-        <div className="md:grid grid-cols-2 gap-4 md:my-8 my-4">
-            <div className="">
+        <div className="md:grid grid-cols-2 gap-4 md:my-8 my-2">
+            <div className="my-12">
                 <div className="">
                     <div className="">
-                        <img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4" alt="" className='rounded h-full'/>
+                        <center>
+                            <img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4" alt="" className='rounded md:h-80 h-40'/>
+                            <p className="py-4 text-xl">First Utility-First Dynamic CSS Framework in Sri Lanka</p>
+                            <p className="text-[#00A0DF] font-semibold text-3xl">JKCSS</p>
+                        </center>
                     </div>
                 </div>
             </div>
-            <div className="">
+            <hr className='md:hidden block border border-[#00A0DF]'/>
+            <div className="my-4"> 
                 <h1 className="md:text-4xl text-xl">Hi, <span className='text-[#00A0DF] italic'>I am Jehan Weerasuriya</span></h1>
                 <p className="md:text-xl my-8">
                     I am Frontend && Backend Developer, and also I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.
