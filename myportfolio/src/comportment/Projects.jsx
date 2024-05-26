@@ -46,7 +46,7 @@ const Projects = () => {
                         </div>
                     </div>                    
                 </div>
-                <p className="">Nodejs + Mysql Npm Package for nodejs Development. Mysql Query-less Backend Development</p>
+                <p className="">Nodejs + Mysql Npm Package for nodejs Development. Nodejs + Mysql Query-less Backend Development</p>
             </div>
             <hr className='md:hidden block border border-[#00A0DF] w-3/4'/>
 
