@@ -8,7 +8,7 @@ const Business = () => {
         <h1 className="md:text-2xl text-2xl text-[#00A0DF] font-semibold flex "><BsBuilding /><span className=' italic pl-2 font-semibold'>Business Ownerships</span></h1>
         <div className="my-12 md:grid grid-cols-3 gap-4 md:mx-16">
             <div className="">
-                <img src="" alt="" />
+                <img src="https://avatars.githubusercontent.com/u/139304882?s=200&v=4" alt="" />
             </div>
         </div>
     </div>
