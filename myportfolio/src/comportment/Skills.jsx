@@ -197,9 +197,9 @@ const Skills = () => {
 
             <div className="bg-gray-800 py-4 px-8 rounded  md:my-0 my-4">
                 <div className="flex">
-                    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
+                    <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" alt="" className='md:h-28 h-16 rounded'/>
                     <div className="mx-5 md:mx-10 md:text-2xl text-xl">
-                        <p className="">React.js</p>
+                        <p className="">Node.js</p>
                         <p className="py-4">Level: <span className='text-green-600'>Expert</span> </p>
                     </div>
                 </div>
@@ -250,6 +250,9 @@ const Skills = () => {
                                 </a>
                                 <a href="https://www.npmjs.com/package/@jehankandy/jkreact-icons" target='_blank'>
                                     <p className="text-[#00A0DF]">JKreact Icons</p>
+                                </a>
+                                <a href="https://www.npmjs.com/package/jkmysql-easy" target='_blank'>
+                                    <p className="text-[#00A0DF]">JKmysql Easy</p>
                                 </a>
                             </td>
                         </tr>
