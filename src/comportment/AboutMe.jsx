@@ -24,7 +24,7 @@ const AboutMe = () => {
             <div className="my-4"> 
                 <h1 className="md:text-4xl text-xl">Hi, <span className='text-[#00A0DF] italic'>I am Jehan Weerasuriya</span></h1>
                 <p className="md:text-xl my-8">
-                    I am Frontend && Backend Developer, and also I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.
+                    I am Full-Stack Developer, and also I am the Founder and CEO of the First CSS Framework in Sri Lanka and, the Founder and CEO of React-JKCSS, which is the First CSS Framework Developed in Sri Lanka that supports React js also the Founder and CEO of the JKReact-Icons Which supports React web development.
                 </p>
                 <p className="md:text-xl my-8">
                     I know about javascript, PHP, and also expert in HTML, and CSS. According to the Frontend CSS Frameworks, I am an expert in Bootstrap and Tailwind CSS, 
